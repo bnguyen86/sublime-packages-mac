@@ -1,0 +1,8 @@
+{
+    "enable_key_map": true,
+    "enable_on_hover_description": true,
+    "completion_active_list": {
+        "jQuery": false,
+        "description-jQuery": false
+    }
+}

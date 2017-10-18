@@ -1,0 +1,55 @@
+{
+	"added_words":
+	[
+		"visualforce"
+	],
+	"additional_path_items":
+	[
+		"/usr/bin",
+		"/bin",
+		"/usr/sbin",
+		"/sbin",
+		"/usr/local/bin",
+		"/Users/bnguyen/Applications/ANT_HOME/bin",
+		"/Users/bnguyen/Applications/groovy/bin"
+	],
+	"binary_file_patterns":
+	[
+		"*.cls-meta.xml",
+		"*.component-meta.xml",
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.page-meta.xml",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"config/**",
+		"config/.symbols/**",
+		"debug/**"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"JavaScript Ultimate",
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"spell_check": true,
+	"theme": "SodaSeti Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_wrap": "false"
+}

@@ -1,0 +1,134 @@
+{
+	"jdk_version":
+	{
+		"JDK1.6.0u65":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bundle/Home/bin",
+			"update": "65",
+			"version": "1.6.0"
+		},
+		"JDK1.7.0u67":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/bin",
+			"update": "67",
+			"version": "1.7.0"
+		},
+		"JDK1.8.0u101":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin",
+			"update": "101",
+			"version": "1.8.0"
+		},
+		"JDK1.8.0u25":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/bin",
+			"update": "25",
+			"version": "1.8.0"
+		},
+		"use": "JDK1.8.0u25"
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		},
+		"3":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/bnguyen/Workspace/aura"
+				}
+			]
+		},
+		"4":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		},
+		"5":
+		{
+			"folders":
+			[
+				{
+					"path": "."
+				}
+			]
+		},
+		"6":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/bnguyen/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter"
+				},
+				{
+					"path": "/Users/bnguyen/Library/Application Support/Sublime Text 3/Packages/User"
+				}
+			]
+		}
+	}
+}

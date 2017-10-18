@@ -1,0 +1,1337 @@
+{
+	"apex.sublime@dev.com":
+	{
+		"ApexClass":
+		{
+			"accountcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000003hdEGAAY",
+				"is_test": false,
+				"name": "AccountController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000003hdEGAAY"
+			},
+			"attachmentscontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000064iVSAAY",
+				"is_test": false,
+				"name": "Attachmentscontroller",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000064iVSAAY"
+			},
+			"changepasswordcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBtAAI",
+				"is_test": false,
+				"name": "ChangePasswordController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBtAAI"
+			},
+			"communitieslandingcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOyYAAU",
+				"is_test": false,
+				"name": "CommunitiesLandingController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOyYAAU"
+			},
+			"communitieslandingcontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOyZAAU",
+				"is_test": true,
+				"name": "CommunitiesLandingControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOyZAAU"
+			},
+			"communitieslogincontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOyWAAU",
+				"is_test": false,
+				"name": "CommunitiesLoginController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOyWAAU"
+			},
+			"communitiesselfregconfirmcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOycAAE",
+				"is_test": false,
+				"name": "CommunitiesSelfRegConfirmController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOycAAE"
+			},
+			"communitiesselfregconfirmcontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOydAAE",
+				"is_test": true,
+				"name": "CommunitiesSelfRegConfirmControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOydAAE"
+			},
+			"communitiesselfregcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOyaAAE",
+				"is_test": false,
+				"name": "CommunitiesSelfRegController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOyaAAE"
+			},
+			"communitiesselfregcontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004uOybAAE",
+				"is_test": true,
+				"name": "CommunitiesSelfRegControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004uOybAAE"
+			},
+			"countryconfigurationcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000063fVSAAY",
+				"is_test": false,
+				"name": "CountryConfigurationController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000063fVSAAY"
+			},
+			"ctrlsublimehandler":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p9000000643r7AAA",
+				"is_test": false,
+				"name": "ctrlSublimeHandler",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p9000000643r7AAA"
+			},
+			"expensecontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000062qwLAAQ",
+				"is_test": false,
+				"name": "ExpenseController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000062qwLAAQ"
+			},
+			"forgotpasswordcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBvAAI",
+				"is_test": false,
+				"name": "ForgotPasswordController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBvAAI"
+			},
+			"forgotpasswordcontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBwAAI",
+				"is_test": true,
+				"name": "ForgotPasswordControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBwAAI"
+			},
+			"human":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005MlWSAA0",
+				"is_test": false,
+				"name": "Human",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005MlWSAA0"
+			},
+			"humanrestservice":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005Mqp5AAC",
+				"is_test": false,
+				"name": "HumanRestService",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005Mqp5AAC"
+			},
+			"mcp_startcontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p9000000643lTAAQ",
+				"is_test": false,
+				"name": "MCP_StartController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p9000000643lTAAQ"
+			},
+			"myprofilepagecontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBxAAI",
+				"is_test": false,
+				"name": "MyProfilePageController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBxAAI"
+			},
+			"myprofilepagecontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqByAAI",
+				"is_test": true,
+				"name": "MyProfilePageControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqByAAI"
+			},
+			"opportunitycontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005n3uhAAA",
+				"is_test": false,
+				"name": "OpportunityController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005n3uhAAA"
+			},
+			"plancontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000064iVXAAY",
+				"is_test": false,
+				"name": "PlanController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000064iVXAAY"
+			},
+			"restdatalimits":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004CbRBAA0",
+				"is_test": false,
+				"name": "RestDataLimits",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004CbRBAA0"
+			},
+			"roletreecontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBBAAY",
+				"is_test": false,
+				"name": "RoleTreeController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBBAAY"
+			},
+			"scnpurchaseordercontroller_updated":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sx7WAAQ",
+				"is_test": false,
+				"name": "SCNPurchaseOrderController_Updated",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sx7WAAQ"
+			},
+			"selectopportunitycontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005N1V4AAK",
+				"is_test": false,
+				"name": "SelectOpportunityController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005N1V4AAK"
+			},
+			"sitelogincontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBpAAI",
+				"is_test": false,
+				"name": "SiteLoginController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBpAAI"
+			},
+			"sitelogincontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBqAAI",
+				"is_test": true,
+				"name": "SiteLoginControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBqAAI"
+			},
+			"siteregistercontroller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBrAAI",
+				"is_test": false,
+				"name": "SiteRegisterController",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBrAAI"
+			},
+			"siteregistercontrollertest":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000004sqBsAAI",
+				"is_test": true,
+				"name": "SiteRegisterControllerTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000004sqBsAAI"
+			},
+			"teasafdsafasfa":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005l0WKAAY",
+				"is_test": false,
+				"name": "TEASAFDSAFASFA",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005l0WKAAY"
+			},
+			"test000":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005o5FBAAY",
+				"is_test": true,
+				"name": "test000",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005o5FBAAY"
+			},
+			"test0000":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005o5FGAAY",
+				"is_test": true,
+				"name": "test0000",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005o5FGAAY"
+			},
+			"test1":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005kjxJAAQ",
+				"is_test": true,
+				"name": "Test1",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005kjxJAAQ"
+			},
+			"test2":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005kjxOAAQ",
+				"is_test": true,
+				"name": "Test2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005kjxOAAQ"
+			},
+			"test21":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005oHXfAAM",
+				"is_test": true,
+				"name": "Test21",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005oHXfAAM"
+			},
+			"test3":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005o5FLAAY",
+				"is_test": true,
+				"name": "Test3",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005o5FLAAY"
+			},
+			"test4":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005o5FQAAY",
+				"is_test": true,
+				"name": "Test4",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005o5FQAAY"
+			},
+			"testapex":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005lmNTAAY",
+				"is_test": true,
+				"name": "TestApex",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005lmNTAAY"
+			},
+			"testapexdealy":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000064wG9AAI",
+				"is_test": true,
+				"name": "TestApexDealy",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000064wG9AAI"
+			},
+			"testclass":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005OlokAAC",
+				"is_test": true,
+				"name": "TestClass",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005OlokAAC"
+			},
+			"testcontoller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005nCehAAE",
+				"is_test": true,
+				"name": "TestcONToller",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005nCehAAE"
+			},
+			"testexception":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p9000000643MnAAI",
+				"is_test": true,
+				"name": "TestException",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p9000000643MnAAI"
+			},
+			"testfa":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005l0ROAAY",
+				"is_test": true,
+				"name": "Testfa",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005l0ROAAY"
+			},
+			"testfutureinrestservice":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000062kudAAA",
+				"is_test": true,
+				"name": "TestFutureInRESTService",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000062kudAAA"
+			},
+			"testing":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000063mjjAAA",
+				"is_test": true,
+				"name": "Testing",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000063mjjAAA"
+			},
+			"testpage123456controller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005nCemAAE",
+				"is_test": true,
+				"name": "TestPage123456Controller",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005nCemAAE"
+			},
+			"testpage333controller":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005nBPfAAM",
+				"is_test": true,
+				"name": "TestPage333Controller",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005nBPfAAM"
+			},
+			"testpagecontrooler":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005mym9AAA",
+				"is_test": true,
+				"name": "TestPageControoler",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005mym9AAA"
+			},
+			"testutility":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005nBL8AAM",
+				"is_test": true,
+				"name": "TestUtility",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005nBL8AAM"
+			},
+			"testutility2":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005nBPkAAM",
+				"is_test": true,
+				"name": "TestUtility2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005nBPkAAM"
+			},
+			"userroleutils":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005MxbBAAS",
+				"is_test": false,
+				"name": "UserRoleUtils",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005MxbBAAS"
+			},
+			"utilaccount":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p90000005O5TCAA0",
+				"is_test": false,
+				"name": "UtilAccount",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p90000005O5TCAA0"
+			},
+			"utility":
+			{
+				"body": "Body",
+				"extension": ".cls",
+				"id": "01p900000063mjtAAA",
+				"is_test": false,
+				"name": "Utility",
+				"namespacePrefix": "haoliu",
+				"type": "ApexClass",
+				"url": "/services/data/v32.0/sobjects/ApexClass/01p900000063mjtAAA"
+			}
+		},
+		"ApexComponent":
+		{
+			"sitefooter":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RTipAAG",
+				"name": "SiteFooter",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RTipAAG"
+			},
+			"siteheader":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RTioAAG",
+				"name": "SiteHeader",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RTioAAG"
+			},
+			"sitelogin":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RTiqAAG",
+				"name": "SiteLogin",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RTiqAAG"
+			},
+			"sitepoweredby":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RTinAAG",
+				"name": "SitePoweredBy",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RTinAAG"
+			},
+			"test2":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RlNGAA0",
+				"name": "Test2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RlNGAA0"
+			},
+			"test3":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RlNLAA0",
+				"name": "Test3",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RlNLAA0"
+			},
+			"testcomponent":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RgBLAA0",
+				"name": "TestComponent",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RgBLAA0"
+			},
+			"testcomponent2":
+			{
+				"body": "Markup",
+				"extension": ".component",
+				"id": "09990000000RlN1AAK",
+				"name": "TestComponent2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexComponent",
+				"url": "/services/data/v32.0/sobjects/ApexComponent/09990000000RlN1AAK"
+			}
+		},
+		"ApexPage":
+		{
+			"bandwidthexceeded2":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp9AAG",
+				"name": "BandwidthExceeded2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp9AAG"
+			},
+			"changepassword":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp0AAG",
+				"name": "ChangePassword",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp0AAG"
+			},
+			"communitieslanding":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004FrSPAA0",
+				"name": "CommunitiesLanding",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004FrSPAA0"
+			},
+			"communitieslogin":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004FrSOAA0",
+				"name": "CommunitiesLogin",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004FrSOAA0"
+			},
+			"communitiesselfreg":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004FrSQAA0",
+				"name": "CommunitiesSelfReg",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004FrSQAA0"
+			},
+			"communitiesselfregconfirm":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004FrSRAA0",
+				"name": "CommunitiesSelfRegConfirm",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004FrSRAA0"
+			},
+			"communitiestemplate":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004FrSNAA0",
+				"name": "CommunitiesTemplate",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004FrSNAA0"
+			},
+			"exception":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPpAAAW",
+				"name": "Exception",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPpAAAW"
+			},
+			"filenotfound":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp8AAG",
+				"name": "FileNotFound",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp8AAG"
+			},
+			"forgotpassword":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp1AAG",
+				"name": "ForgotPassword",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp1AAG"
+			},
+			"forgotpasswordconfirm":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp3AAG",
+				"name": "ForgotPasswordConfirm",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp3AAG"
+			},
+			"ideashome":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPpEAAW",
+				"name": "IdeasHome",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPpEAAW"
+			},
+			"inmaintenance":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPpBAAW",
+				"name": "InMaintenance",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPpBAAW"
+			},
+			"mycurrentprojecttemplate":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005OCQZAA4",
+				"name": "mycurrentprojecttemplate",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005OCQZAA4"
+			},
+			"myprofilepage":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp5AAG",
+				"name": "MyProfilePage",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp5AAG"
+			},
+			"opportunitytest":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "066900000053TzdAAE",
+				"name": "OpportunityTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/066900000053TzdAAE"
+			},
+			"page2":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005ODalAAG",
+				"name": "Page2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005ODalAAG"
+			},
+			"project":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005OZEKAA4",
+				"name": "project",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005OZEKAA4"
+			},
+			"project2":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005Ol3dAAC",
+				"name": "project2",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005Ol3dAAC"
+			},
+			"roletree":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPofAAG",
+				"name": "RoleTree",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPofAAG"
+			},
+			"scratch_training":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004qqtkAAA",
+				"name": "scratch_training",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004qqtkAAA"
+			},
+			"selectopportunity":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004qZpFAAU",
+				"name": "SelectOpportunity",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004qZpFAAU"
+			},
+			"sitelogin":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp2AAG",
+				"name": "SiteLogin",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp2AAG"
+			},
+			"siteregister":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPozAAG",
+				"name": "SiteRegister",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPozAAG"
+			},
+			"siteregisterconfirm":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp4AAG",
+				"name": "SiteRegisterConfirm",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp4AAG"
+			},
+			"sitetemplate":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp7AAG",
+				"name": "SiteTemplate",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp7AAG"
+			},
+			"staticresourcetest":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005Lkf1AAC",
+				"name": "StaticResourceTest",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005Lkf1AAC"
+			},
+			"stdexceptiontemplate":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPp6AAG",
+				"name": "StdExceptionTemplate",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPp6AAG"
+			},
+			"test":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005Oq7aAAC",
+				"name": "test",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005Oq7aAAC"
+			},
+			"testextension":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "066900000053KkZAAU",
+				"name": "TestExtension",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/066900000053KkZAAU"
+			},
+			"testpage":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004CiNTAA0",
+				"name": "TestPage",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004CiNTAA0"
+			},
+			"testpage333":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "066900000053awDAAQ",
+				"name": "TestPage333",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/066900000053awDAAQ"
+			},
+			"training":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004oaUUAAY",
+				"name": "training",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004oaUUAAY"
+			},
+			"unauthorized":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPpCAAW",
+				"name": "Unauthorized",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPpCAAW"
+			},
+			"underconstruction":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000004EPpDAAW",
+				"name": "UnderConstruction",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000004EPpDAAW"
+			},
+			"vfpage":
+			{
+				"body": "Markup",
+				"extension": ".page",
+				"id": "06690000005OlSEAA0",
+				"name": "VFPage",
+				"namespacePrefix": "haoliu",
+				"type": "ApexPage",
+				"url": "/services/data/v32.0/sobjects/ApexPage/06690000005OlSEAA0"
+			}
+		},
+		"ApexTrigger":
+		{
+			"account":
+			{
+				"body": "Body",
+				"extension": ".trigger",
+				"id": "01q90000000oOu3AAE",
+				"name": "Account",
+				"namespacePrefix": "haoliu",
+				"type": "ApexTrigger",
+				"url": "/services/data/v32.0/sobjects/ApexTrigger/01q90000000oOu3AAE"
+			}
+		},
+		"AuraDefinitionBundle":
+		{
+			"expensetracker/expensetracker.app":
+			{
+				"body": "",
+				"extension": ".app",
+				"id": "0Ad9000000001PaCAI",
+				"name": "expenseTracker/expenseTracker.app",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001PaCAI"
+			},
+			"expensetracker/expensetracker.css":
+			{
+				"body": "",
+				"extension": ".css",
+				"id": "0Ad9000000001QwCAI",
+				"name": "expenseTracker/expenseTracker.css",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001QwCAI"
+			},
+			"facetheader/facetheader.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad90000000026NCAQ",
+				"name": "facetHeader/facetHeader.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad90000000026NCAQ"
+			},
+			"form/form.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad9000000001PYCAY",
+				"name": "form/form.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001PYCAY"
+			},
+			"form/form.css":
+			{
+				"body": "",
+				"extension": ".css",
+				"id": "0Ad9000000001QWCAY",
+				"name": "form/form.css",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001QWCAY"
+			},
+			"form/formcontroller.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001QUCAY",
+				"name": "form/formController.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001QUCAY"
+			},
+			"form/formhelper.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001QVCAY",
+				"name": "form/formHelper.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001QVCAY"
+			},
+			"helloattributes/helloattributes.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad90000000026ICAQ",
+				"name": "helloAttributes/helloAttributes.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad90000000026ICAQ"
+			},
+			"hellofacets/hellofacets.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad90000000026SCAQ",
+				"name": "helloFacets/helloFacets.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad90000000026SCAQ"
+			},
+			"hellohtml/hellohtml.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad90000000025yCAA",
+				"name": "helloHTML/helloHTML.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad90000000025yCAA"
+			},
+			"hellohtml/hellohtml.css":
+			{
+				"body": "",
+				"extension": ".css",
+				"id": "0Ad90000000026ECAQ",
+				"name": "helloHTML/helloHTML.css",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad90000000026ECAQ"
+			},
+			"region/region.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad9000000001MPCAY",
+				"name": "region/region.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001MPCAY"
+			},
+			"region/regioncontroller.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001TQCAY",
+				"name": "region/regionController.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001TQCAY"
+			},
+			"region/regionhelper.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001TRCAY",
+				"name": "region/regionHelper.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001TRCAY"
+			},
+			"region/regionrenderer.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001TSCAY",
+				"name": "region/regionRenderer.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001TSCAY"
+			},
+			"regiondemo/regiondemo.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad9000000001MWCAY",
+				"name": "regionDemo/regionDemo.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001MWCAY"
+			},
+			"regiondemo/regiondemo.css":
+			{
+				"body": "",
+				"extension": ".css",
+				"id": "0Ad9000000001TUCAY",
+				"name": "regionDemo/regionDemo.css",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001TUCAY"
+			},
+			"regiondemo/regiondemocontroller.js":
+			{
+				"body": "",
+				"extension": ".js",
+				"id": "0Ad9000000001TTCAY",
+				"name": "regionDemo/regionDemoController.js",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001TTCAY"
+			},
+			"regiondemoapp/regiondemoapp.app":
+			{
+				"body": "",
+				"extension": ".app",
+				"id": "0Ad9000000001MTCAY",
+				"name": "regionDemoApp/regionDemoApp.app",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000001MTCAY"
+			},
+			"teste/teste.cmp":
+			{
+				"body": "",
+				"extension": ".cmp",
+				"id": "0Ad9000000002H6CAI",
+				"name": "Teste/Teste.cmp",
+				"namespacePrefix": "haoliu",
+				"type": "AuraDefinitionBundle",
+				"url": "/services/data/v32.0/sobjects/AuraDefinitionBundle/0Ad9000000002H6CAI"
+			}
+		},
+		"StaticResource":
+		{
+			"angularjs":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000VbKsAAK",
+				"name": "angularjs",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000VbKsAAK"
+			},
+			"auranglogo":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000VbKtAAK",
+				"name": "auraNgLogo",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000VbKtAAK"
+			},
+			"bootstrap":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000Vbn8AAC",
+				"name": "bootstrap",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000Vbn8AAC"
+			},
+			"orgchart":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000V0g7AAC",
+				"name": "orgchart",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000V0g7AAC"
+			},
+			"quicksearch":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000VXcxAAG",
+				"name": "quicksearch",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000VXcxAAG"
+			},
+			"sitesamples":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000V0gCAAS",
+				"name": "SiteSamples",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000V0gCAAS"
+			},
+			"testresource":
+			{
+				"body": "Body",
+				"extension": ".resource",
+				"id": "08190000000VXdRAAW",
+				"name": "TestResource",
+				"namespacePrefix": "haoliu",
+				"type": "StaticResource",
+				"url": "/services/data/v32.0/sobjects/StaticResource/08190000000VXdRAAW"
+			}
+		}
+	}
+}
